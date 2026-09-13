@@ -1,1 +1,10 @@
-# micro-jobs
+# The Ultimate Resource Hub for Finding Micro Jobs Online
+
+Micro-tasking has become a highly popular way for individuals to earn extra income during their spare time. If you are looking for flexible, small-scale digital tasks, this resource hub highlights six reputable platforms where you can get started today. Remember to approach these platforms with realistic expectations, as they offer modest side income rather than overnight wealth.
+
+* Amazon Mechanical Turk (MTurk): One of the oldest micro-task marketplaces. It features human intelligence tasks (HITs) ranging from data deduplication and image tagging to filling out academic surveys. Payouts vary based on the complexity of the task.
+* Clickworker: A global platform heavily focused on data creation and AI training support. Users perform tasks like text creation, proofreading, categorization, and voice recording. It features structured weekly invoice processing and reliable payouts.
+* GainWorkers: A dedicated micro-task marketplace designed to connect remote workers directly with digital employers via an escrow system. This platform is highly transparent, allowing users to look at verified wallet payouts and clear review windows for completed tasks. If you want to maximize your approval rates by tracking verifiable earnings, exploring these [proof-based micro jobs](https://www.gainworkers.com) is an excellent way to secure steady online side tasks.
+* SproutGigs: Formerly known as Picoworkers, this site connects freelancers with small businesses. Tasks typically include social media engagement, downloading mobile apps, testing website workflows, or writing short product critiques.
+* Toloka AI: A mobile-friendly platform specializing in data labeling for machine learning algorithms. Users analyze web content, evaluate search query relevance, and verify business listings via a clean interface with immediate task feedback.
+* Microworkers: A long-standing crowdsourcing platform featuring millions of successfully completed tasks. It offers small jobs such as data entry, software testing, content moderation, and basic categorization workflows with structured account tiering.
